@@ -1,1 +1,1 @@
-# Day-15-Incrementing-Counter
+# Incrementing-Counter
